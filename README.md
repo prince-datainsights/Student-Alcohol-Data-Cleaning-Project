@@ -18,6 +18,6 @@ Key Features / Highlights:
 
 Technologies I Used:-
 
-Python
-Pandas
-Jupyter Notebook
+* Python
+* Pandas
+* Jupyter Notebook
