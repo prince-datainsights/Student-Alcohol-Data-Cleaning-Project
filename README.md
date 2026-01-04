@@ -3,7 +3,7 @@
 
 Project Description:-
 
-This project is about analyzing student data using Python and pandas. 
+This project is about analyzing student Alcohol data cleaning using Python and pandas. 
 It includes data cleaning, merging two datasets, creating new columns, 
 and basic transformations like capitalizing string columns and multiplying numeric columns. 
 
@@ -16,7 +16,7 @@ Key Features / Highlights:
 * Created new columns like legal_drinker using functions
 * Multiplied numeric columns by 10 for demonstration.
 
-Technologies I Used:-
+Libraries I Used:-
 
 * Python
 * Pandas
